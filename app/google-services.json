@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "870523573461",
+    "firebase_url": "https://myfirebaseauthapp-ae0c6.firebaseio.com",
+    "project_id": "myfirebaseauthapp-ae0c6",
+    "storage_bucket": "myfirebaseauthapp-ae0c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870523573461:android:2a0c455ca25182cb",
+        "android_client_info": {
+          "package_name": "com.tejastjexample.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870523573461-tfl2lotp2ck4i3bmvrus6o0nihm0d8b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVj3C2tQFwQeD4j-NJsG6Ewn98IE8sd_I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
